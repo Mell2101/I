@@ -1,0 +1,15 @@
+C:\Users\Tkago\Desktop\C# Projects\I\src\Integrator\I.HH\obj\Debug\net9.0\I.HH.csproj.AssemblyReference.cache
+C:\Users\Tkago\Desktop\C# Projects\I\src\Integrator\I.HH\obj\Debug\net9.0\I.HH.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tkago\Desktop\C# Projects\I\src\Integrator\I.HH\obj\Debug\net9.0\I.HH.AssemblyInfoInputs.cache
+C:\Users\Tkago\Desktop\C# Projects\I\src\Integrator\I.HH\obj\Debug\net9.0\I.HH.AssemblyInfo.cs
+C:\Users\Tkago\Desktop\C# Projects\I\src\Integrator\I.HH\obj\Debug\net9.0\I.HH.csproj.CoreCompileInputs.cache
+C:\Users\Tkago\Desktop\C# Projects\I\src\Integrator\I.HH\bin\Debug\net9.0\I.HH.deps.json
+C:\Users\Tkago\Desktop\C# Projects\I\src\Integrator\I.HH\bin\Debug\net9.0\I.HH.dll
+C:\Users\Tkago\Desktop\C# Projects\I\src\Integrator\I.HH\bin\Debug\net9.0\I.HH.pdb
+C:\Users\Tkago\Desktop\C# Projects\I\src\Integrator\I.HH\bin\Debug\net9.0\I.Domain.dll
+C:\Users\Tkago\Desktop\C# Projects\I\src\Integrator\I.HH\bin\Debug\net9.0\I.Domain.pdb
+C:\Users\Tkago\Desktop\C# Projects\I\src\Integrator\I.HH\obj\Debug\net9.0\I.HH.csproj.Up2Date
+C:\Users\Tkago\Desktop\C# Projects\I\src\Integrator\I.HH\obj\Debug\net9.0\I.HH.dll
+C:\Users\Tkago\Desktop\C# Projects\I\src\Integrator\I.HH\obj\Debug\net9.0\refint\I.HH.dll
+C:\Users\Tkago\Desktop\C# Projects\I\src\Integrator\I.HH\obj\Debug\net9.0\I.HH.pdb
+C:\Users\Tkago\Desktop\C# Projects\I\src\Integrator\I.HH\obj\Debug\net9.0\ref\I.HH.dll

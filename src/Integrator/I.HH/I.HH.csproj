@@ -1,0 +1,19 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net9.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="13.0.1" />
+    <PackageReference Include="CG4.Extensions" Version="2.0.139" />
+    <PackageReference Include="CG4.Impl.Dapper" Version="2.0.139" />
+    <PackageReference Include="CG4.Impl.Dapper.PostgreSql" Version="2.0.139" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\Main\I.Domain\I.Domain.csproj" />
+  </ItemGroup>
+
+</Project>

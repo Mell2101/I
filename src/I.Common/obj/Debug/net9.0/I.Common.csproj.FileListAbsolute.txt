@@ -1,0 +1,12 @@
+C:\Users\Tkago\Desktop\C# Projects\I\src\I.Common\bin\Debug\net9.0\I.Common.deps.json
+c:\Users\Tkago\Desktop\C# Projects\I\src\I.Common\bin\Debug\net9.0\I.Common.dll
+c:\Users\Tkago\Desktop\C# Projects\I\src\I.Common\bin\Debug\net9.0\I.Common.pdb
+c:\Users\Tkago\Desktop\C# Projects\I\src\I.Common\obj\Debug\net9.0\I.Common.csproj.AssemblyReference.cache
+c:\Users\Tkago\Desktop\C# Projects\I\src\I.Common\obj\Debug\net9.0\I.Common.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Tkago\Desktop\C# Projects\I\src\I.Common\obj\Debug\net9.0\I.Common.AssemblyInfoInputs.cache
+c:\Users\Tkago\Desktop\C# Projects\I\src\I.Common\obj\Debug\net9.0\I.Common.AssemblyInfo.cs
+c:\Users\Tkago\Desktop\C# Projects\I\src\I.Common\obj\Debug\net9.0\I.Common.csproj.CoreCompileInputs.cache
+c:\Users\Tkago\Desktop\C# Projects\I\src\I.Common\obj\Debug\net9.0\I.Common.dll
+c:\Users\Tkago\Desktop\C# Projects\I\src\I.Common\obj\Debug\net9.0\refint\I.Common.dll
+c:\Users\Tkago\Desktop\C# Projects\I\src\I.Common\obj\Debug\net9.0\I.Common.pdb
+C:\Users\Tkago\Desktop\C# Projects\I\src\I.Common\obj\Debug\net9.0\ref\I.Common.dll

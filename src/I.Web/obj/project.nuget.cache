@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "PdZ4p3/5BeM=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Tkago\\Desktop\\C# Projects\\I\\src\\I.Web\\I.Web.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Tkago\\.nuget\\packages\\microsoft.openapi\\1.6.22\\microsoft.openapi.1.6.22.nupkg.sha512",
+    "C:\\Users\\Tkago\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\7.2.0\\swashbuckle.aspnetcore.swagger.7.2.0.nupkg.sha512"
+  ],
+  "logs": []
+}

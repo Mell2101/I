@@ -1,0 +1,15 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net9.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="CG4.Extensions" Version="2.0.139" />
+    <PackageReference Include="CG4.Impl.Dapper" Version="2.0.139" />
+    <PackageReference Include="CG4.Impl.Dapper.PostgreSql" Version="2.0.139" />
+  </ItemGroup>
+
+</Project>

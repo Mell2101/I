@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Welcome to My Web App</title>
+    
+    <!-- Добавление стилей -->
+    <link rel="stylesheet" href="styles.css">
+
+    <!-- Фавикон -->
+    <link rel="icon" href="favicon.ico" type="image/x-icon">
+</head>
+<body>
+
+    <!-- Навигационная панель -->
+    <header>
+        <nav>
+            <ul>
+                <li><a href="#home">Home</a></li>
+                <li><a href="#about">About</a></li>
+                <li><a href="#services">Services</a></li>
+                <li><a href="#contact">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <!-- Главная секция -->
+    <section id="home" class="intro">
+        <div class="container">
+            <h1>Welcome to Our Web App</h1>
+            <p>Your journey to success starts here.</p>
+            <a href="#about" class="btn">Learn More</a>
+        </div>
+    </section>
+
+    <!-- О нас -->
+    <section id="about" class="about">
+        <div class="container">
+            <h2>About Us</h2>
+            <p>We are a passionate team of developers, designers, and innovators dedicated to creating awesome digital experiences. Our mission is to help you achieve your goals with cutting-edge technology.</p>
+        </div>
+    </section>
+
+    <!-- Услуги -->
+    <section id="services" class="services">
+        <div class="container">
+            <h2>Our Services</h2>
+            <div class="service-item">
+                <h3>Web Development</h3>
+                <p>Building responsive and user-friendly websites tailored to your needs.</p>
+            </div>
+            <div class="service-item">
+                <h3>Consulting</h3>
+                <p>Offering expert advice on digital transformation and strategy.</p>
+            </div>
+            <div class="service-item">
+                <h3>Design</h3>
+                <p>Creating visually stunning and effective designs that captivate audiences.</p>
+            </div>
+        </div>
+    </section>
+
+    <!-- Контактная информация -->
+    <section id="contact" class="contact">
+        <div class="container">
+            <h2>Contact Us</h2>
+            <p>Have questions or want to start a project? Get in touch with us today!</p>
+            <form action="#">
+                <input type="text" name="name" placeholder="Your Name" required>
+                <input type="email" name="email" placeholder="Your Email" required>
+                <textarea name="message" placeholder="Your Message" required></textarea>
+                <button type="submit" class="btn">Send Message</button>
+            </form>
+        </div>
+    </section>
+
+    <!-- Футер -->
+    <footer>
+        <div class="container">
+            <p>&copy; 2025 My Web App. All rights reserved.</p>
+        </div>
+    </footer>
+
+    <!-- Подключение скриптов -->
+    <script src="scripts.js"></script>
+</body>
+</html>

@@ -1,0 +1,17 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net9.0</TargetFramework>
+    <IsPackable>false</IsPackable>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="EntityDto\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="CG4.DataAccess" Version="2.0.139" />
+  </ItemGroup>
+
+</Project>

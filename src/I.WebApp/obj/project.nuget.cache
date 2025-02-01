@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "bJC7TGc1Zng=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Tkago\\Desktop\\C# Projects\\I\\src\\I.WebApp\\I.WebApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Tkago\\.nuget\\packages\\dapper\\2.1.35\\dapper.2.1.35.nupkg.sha512",
+    "C:\\Users\\Tkago\\.nuget\\packages\\microsoft.openapi\\1.6.22\\microsoft.openapi.1.6.22.nupkg.sha512",
+    "C:\\Users\\Tkago\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\7.2.0\\swashbuckle.aspnetcore.swagger.7.2.0.nupkg.sha512"
+  ],
+  "logs": []
+}
