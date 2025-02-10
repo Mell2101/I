@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "tu1fiyUOVtY=",
+  "dgSpecHash": "1okhp3Xyu1w=",
   "success": true,
-  "projectFilePath": "c:\\Users\\Tkago\\Desktop\\C# Projects\\I\\src\\Main\\I.Domain\\I.Domain.csproj",
+  "projectFilePath": "C:\\Users\\Tkago\\Desktop\\C# Projects\\I\\src\\Main\\I.Domain\\I.Domain.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Tkago\\.nuget\\packages\\cg4.dataaccess\\2.0.139\\cg4.dataaccess.2.0.139.nupkg.sha512",
     "C:\\Users\\Tkago\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",

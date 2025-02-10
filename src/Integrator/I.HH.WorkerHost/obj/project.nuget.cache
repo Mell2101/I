@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Ahb2i+D1imQ=",
+  "dgSpecHash": "4vruzgFQEU8=",
   "success": true,
-  "projectFilePath": "c:\\Users\\Tkago\\Desktop\\C# Projects\\I\\src\\Integrator\\I.HH.WorkerHost\\I.HH.WorkerHost.csproj",
+  "projectFilePath": "C:\\Users\\Tkago\\Desktop\\C# Projects\\I\\src\\Integrator\\I.HH.WorkerHost\\I.HH.WorkerHost.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Tkago\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
     "C:\\Users\\Tkago\\.nuget\\packages\\cg4.dataaccess\\2.0.139\\cg4.dataaccess.2.0.139.nupkg.sha512",

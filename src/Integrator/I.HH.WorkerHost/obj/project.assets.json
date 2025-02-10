@@ -2644,11 +2644,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\Tkago\\Desktop\\C# Projects\\I\\src\\Integrator\\I.HH.WorkerHost\\I.HH.WorkerHost.csproj",
+      "projectUniqueName": "C:\\Users\\Tkago\\Desktop\\C# Projects\\I\\src\\Integrator\\I.HH.WorkerHost\\I.HH.WorkerHost.csproj",
       "projectName": "I.HH.WorkerHost",
-      "projectPath": "c:\\Users\\Tkago\\Desktop\\C# Projects\\I\\src\\Integrator\\I.HH.WorkerHost\\I.HH.WorkerHost.csproj",
+      "projectPath": "C:\\Users\\Tkago\\Desktop\\C# Projects\\I\\src\\Integrator\\I.HH.WorkerHost\\I.HH.WorkerHost.csproj",
       "packagesPath": "C:\\Users\\Tkago\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\Tkago\\Desktop\\C# Projects\\I\\src\\Integrator\\I.HH.WorkerHost\\obj\\",
+      "outputPath": "C:\\Users\\Tkago\\Desktop\\C# Projects\\I\\src\\Integrator\\I.HH.WorkerHost\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -2669,8 +2669,8 @@
         "net9.0": {
           "targetAlias": "net9.0",
           "projectReferences": {
-            "c:\\Users\\Tkago\\Desktop\\C# Projects\\I\\src\\Integrator\\I.HH\\I.HH.csproj": {
-              "projectPath": "c:\\Users\\Tkago\\Desktop\\C# Projects\\I\\src\\Integrator\\I.HH\\I.HH.csproj"
+            "C:\\Users\\Tkago\\Desktop\\C# Projects\\I\\src\\Integrator\\I.HH\\I.HH.csproj": {
+              "projectPath": "C:\\Users\\Tkago\\Desktop\\C# Projects\\I\\src\\Integrator\\I.HH\\I.HH.csproj"
             }
           }
         }
