@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "cXuhRa0Gtww=",
+  "dgSpecHash": "oLPRqbZper8=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Tkago\\Desktop\\C# Projects\\I\\src\\Core\\KafkaWorker\\KafkaWorker.csproj",
+  "projectFilePath": "C:\\Users\\Tkago\\Desktop\\C# Projects\\I\\src\\Core\\KafkaWorker\\I.Kafka.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Tkago\\.nuget\\packages\\confluent.kafka\\2.8.0\\confluent.kafka.2.8.0.nupkg.sha512",
     "C:\\Users\\Tkago\\.nuget\\packages\\librdkafka.redist\\2.8.0\\librdkafka.redist.2.8.0.nupkg.sha512",
