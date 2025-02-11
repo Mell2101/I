@@ -1682,9 +1682,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Tkago\\Desktop\\C# Projects\\I\\src\\Core\\KafkaWorker\\KafkaWorker.csproj",
-      "projectName": "KafkaWorker",
-      "projectPath": "C:\\Users\\Tkago\\Desktop\\C# Projects\\I\\src\\Core\\KafkaWorker\\KafkaWorker.csproj",
+      "projectUniqueName": "C:\\Users\\Tkago\\Desktop\\C# Projects\\I\\src\\Core\\KafkaWorker\\I.Kafka.csproj",
+      "projectName": "I.Kafka",
+      "projectPath": "C:\\Users\\Tkago\\Desktop\\C# Projects\\I\\src\\Core\\KafkaWorker\\I.Kafka.csproj",
       "packagesPath": "C:\\Users\\Tkago\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Tkago\\Desktop\\C# Projects\\I\\src\\Core\\KafkaWorker\\obj\\",
       "projectStyle": "PackageReference",

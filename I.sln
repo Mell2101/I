@@ -29,7 +29,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "I.Migrations", "src\Migrati
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Core", "Core", "{D4360132-ED4F-4134-A46A-9E936C8849AF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KafkaWorker", "src\Core\KafkaWorker\KafkaWorker.csproj", "{66B64D07-2125-4F0B-94FB-6E42FE1F9115}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "I.Kafka", "src\Core\KafkaWorker\I.Kafka.csproj", "{66B64D07-2125-4F0B-94FB-6E42FE1F9115}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
